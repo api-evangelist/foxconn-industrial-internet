@@ -1,8 +1,25 @@
 aid: foxconn-industrial-internet
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/foxconn-industrial-internet.png
 name: Foxconn Industrial Internet
-description: 'Foxconn Industrial Internet is a company surfaced as a portfolio company of idg-capital
-  and added to the API Evangelist network as a stub for enrichment. Sector: consumer-technology. This
-  profile is a lead awaiting the enrichment pipeline.'
+description: 'Foxconn Industrial Internet Co., Ltd. (FII, 工业富联) is a Shanghai Stock Exchange-listed
+  subsidiary of Hon Hai Precision Industry (Foxconn), headquartered in Shenzhen, China. It is a
+  smart-manufacturing and industrial-internet company producing cloud computing infrastructure and AI
+  servers, communication and networking equipment, and precision tooling, and it offers factory-automation,
+  lighthouse-factory, and industrial-internet platform services for global electronics OEMs. FII operates
+  as a contract manufacturer and industrial platform rather than a public API provider: it publishes no
+  public developer API, OpenAPI, SDK, or developer portal. This profile tracks the company''s corporate
+  identity in the API Evangelist network; there is no API artifact surface to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/foxconn-industrial-internet/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +29,23 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Consumer Technology
+- Smart Manufacturing
+- Industrial Internet
+- Cloud Computing
+- Electronics Manufacturing
+- AI Servers
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
