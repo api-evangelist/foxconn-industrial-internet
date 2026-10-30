@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Foxconn Industrial Internet is a company surfaced as a portfolio company of idg-capital and added to the API Evangelist network as a stub for enrichment. Sector: consumer-technology. This profile is a lead awaiting the enrichment pipeline.
+Foxconn Industrial Internet Co., Ltd. (FII, 工业富联) is a Shanghai Stock Exchange-listed subsidiary of Hon Hai Precision Industry (Foxconn), headquartered in Shenzhen, China. It is a smart-manufacturing and industrial-internet company producing cloud computing infrastructure and AI servers, communication and networking equipment, and precision tooling, and it offers factory-automation, lighthouse-factory, and industrial-internet platform services for global electronics OEMs. FII operates as a contract manufacturer and industrial platform rather than a public API provider: it publishes no public developer API, OpenAPI, SDK, or developer portal. This profile tracks the company's corporate identity in the API Evangelist network; there is no API artifact surface to enrich.
 
-Backed by: idg-capital
+**Areas:** Company · Consumer Technology · Smart Manufacturing · Industrial Internet · Cloud Computing · Electronics Manufacturing · AI Servers
+
+## Foxconn Industrial Internet on APIs.io
+
+Everything profiled for Foxconn Industrial Internet is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/foxconn-industrial-internet/](https://apis.io/providers/foxconn-industrial-internet/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Foxconn Industrial Internet: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/foxconn-industrial-internet/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
